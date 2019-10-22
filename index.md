@@ -7,9 +7,7 @@ title: Vinh Do's Resume
 
 Sotware Engineer, PC Gaming Enthusiast
 
-[vinhdo07@gmail.com]("vinhdo07@gmail.com") | [LinkedIn]("https://www.linkedin.com/in/dovinh/") | [GitHub](https://github.com/bebopvinh)
-
-"https://bebopvinh.github.io/portfolio/"Portfolio
+[vinhdo07@gmail.com](vinhdo07@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dovinh/) | [GitHub](https://github.com/bebopvinh) | [Portfolio](https://bebopvinh.github.io/portfolio/)
 
 ## Summary
 
