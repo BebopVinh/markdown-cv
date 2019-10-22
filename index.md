@@ -5,7 +5,7 @@ title: Vinh Do's Resume
 
 # Vinh Do
 
-Sotware Engineer, PC Gaming Enthusiast
+Sotware Engineer
 
 [vinhdo07@gmail.com](mailto:vinhdo07@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dovinh/) | [GitHub](https://github.com/bebopvinh) | [Portfolio](https://bebopvinh.github.io/portfolio/)
 
